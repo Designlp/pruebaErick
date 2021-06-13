@@ -8,7 +8,7 @@
     <style>
         @charset "utf-8";
 * {
-	padding: 0px;
+	padding: 1px;
 	margin: 0px;
 }
 body {
