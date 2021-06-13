@@ -10,8 +10,8 @@
     <style>
         @charset "utf-8";
 * {
-	padding: 1px;
-	margin: 0px;
+  padding: 0;
+	margin: 0;
 }
 body {
 	font-family: 'Work Sans', sans-serif;
@@ -113,7 +113,7 @@ a {
   <nav class="navbar mynav navbar-fixed-top">
     <div class="container">
       <div class="navbar-header">
-        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar"> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+        <!-- <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar"> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button> -->
         <a class="navbar-brand" href="#">Olimpiadas Tokyo 2020</a> </div>
     </div>
   </nav>
