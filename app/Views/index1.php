@@ -263,7 +263,7 @@ a {
             <div class="portfolio-item"> <a href="#"> <img class="img-portfolio img-responsive" src="imagenes/triatlon.jpg"style="width: 500px;height: 250px;"></a><h1>Triatlón</h1></div>
       </div>
       <div class="col-md-6 col-sm-6">
-            <div class="portfolio-item"> <a href="#"> <img class="img-portfolio img-responsive" src="imagenes/Voleibol.jpg"style="width: 500px;height: 250px;"></a><h1>Voleibol</h1></div>
+            <div class="portfolio-item"> <a href="#"> <img class="img-portfolio img-responsive" src="imagenes/voleibol.jpg"style="width: 500px;height: 250px;"></a><h1>Voleibol</h1></div>
       </div>
       <div class="col-md-6 col-sm-6">
             <div class="portfolio-item"> <a href="#"> <img class="img-portfolio img-responsive" src="imagenes/levantamientodePesas.jpg"style="width: 500px;height: 250px;"></a><h1>Levantamiento de pesas</h1></div>
